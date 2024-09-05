@@ -1,0 +1,5 @@
+# Fichiers de compilation
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
